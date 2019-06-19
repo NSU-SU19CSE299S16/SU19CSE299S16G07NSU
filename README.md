@@ -1,13 +1,5 @@
  
 
- 
-
- 
-
- 
-
- 
-
 **North
 South University**
 
