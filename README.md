@@ -95,6 +95,8 @@ For additional details on the API please visit - [https://www.w3.org/TR/payment-
 
 _Additional technologies_
 
+OAuth for React native/ Flutter will be used to allow users to login using their Facebook and/or Google account.
+
 To keep up with the modern forms of technology we would be using additional technologies to ensure complete user satisfaction. GraphQL is a query language which will act as a bridge between the server-side and the client-side. It provides a faster and efficient way of pulling data from the database.
 
 Health tips would be scrapped from websites and updated to show the user on a daily basis.
