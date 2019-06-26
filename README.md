@@ -1,4 +1,4 @@
-![](media/e031a2af64626f4e5d2e451afaba3121.jpg)
+![NSU logo](/.GITIGNORE/nsu_logo.jpg)
 
 **North South University**
 
