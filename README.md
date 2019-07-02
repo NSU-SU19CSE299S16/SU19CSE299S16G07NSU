@@ -1,4 +1,4 @@
-![NSU logo](/.GITIGNORE/nsu_logo.jpg)
+![NSU logo](https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg)
 
 **North South University**
 
