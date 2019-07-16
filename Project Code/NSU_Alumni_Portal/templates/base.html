@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="D4yCxzc7bUQYkVtGUqgOvAgCXpvV4RWsxZMzDoBe">
+    <title>AlumniPortal</title>
+    <!-- Styles -->
+    <link href="http://institutions.northsouth.edu/alumniportal/public/css/app.css" rel="stylesheet">
+    <link href="http://institutions.northsouth.edu/alumniportal/public/css/main.css" rel="stylesheet">
+    <style type="text/css">
+        .panel-default > .panel-heading,h3 {
+            color:#07022e;
+            font-size:18px;
+        }
+
+    </style>
+</head>
+<body class="no-skin">
+<div id="navbar" style="background-color: #07022e" class="navbar navbar-default faculty-header navbar-collapse">
+    <div class="navbar-container  container" id="navbar-container">
+        <div class="navbar-header pull-left">
+            <a href="#" class="navbar-brand">
+                <img src="http://institutions.northsouth.edu/alumniportal/public/images/logo-wide.png" style="max-width:340px">
+            </a>
+            <button type="button" class="navbar-toggle menu-toggler pull-left display" id="menu-toggler" data-target="#sidebar">
+                <span class="sr-only">Toggle sidebar</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="main-container ace-save-state container" id="main-container">
+{% block content %}
+{% endblock %}
+    
+</div>
+</body>
+</html>
