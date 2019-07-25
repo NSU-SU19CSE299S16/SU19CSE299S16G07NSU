@@ -1,6 +1,7 @@
 ![NSU logo](https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg)
 
-<center>**North South University**
+<p align="justify">
+<b>North South University</b>
 
 Department of Electrical & Computer Engineering
 
@@ -36,7 +37,7 @@ Department of Electrical & Computer Engineering
 
 **Git Repository:** <https://github.com/WasekRahman/SU19CSE299S16G07NSU/>
 
-**Date Prepared:** 20/06/2019</center>
+**Date Prepared:** 20/06/2019</p>
 
 **INTRODUCTION**
 
