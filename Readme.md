@@ -1,43 +1,43 @@
-![NSU logo](https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg)
+<p align="center">![NSU logo](https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg)</p>
 
 <p align="center">
-<b>North South University</b>
+<b>North South University</b></p>
 
-<b>Department of Electrical & Computer Engineering</b>
+<p align="center"><b>Department of Electrical & Computer Engineering</b></p>
 
-**Project Proposal**
+<p align="center">**Project Proposal**</p>
 
-**Group No**: 7
+<p align="center">**Group No**: 7</p>
 
-**Summer 2019**
+<p align="center">**Summer 2019**</p>
 
-**Project Name**: NSU ALUMNI PORTAL
+<p align="center">**Project Name**: NSU ALUMNI PORTAL</p>
 
-**Course No**: CSE 299 **Sec:** 16
+<p align="center">**Course No**: CSE 299 **Sec:** 16</p>
 
-**Semester**: Summer
+<p align="center">**Semester**: Summer</p>
 
-**Faculty**: Shaikh Shawon Arefin Shimon (Sas3)
+<p align="center">**Faculty**: Shaikh Shawon Arefin Shimon (Sas3)</p>
 
-*Member 1:*
+<p align="center">*Member 1:*</p>
 
-**Name:** Mohammed Wasekur Rahman
+<p align="center">**Name:** Mohammed Wasekur Rahman</p>
 
-**ID:** 1713032042
+<p align="center">**ID:** 1713032042</p>
 
-**Email:** <mohammed.rahman03@northsouth.edu>
+<p align="center">**Email:** <mohammed.rahman03@northsouth.edu></p>
 
-**Member 2:**
+<p align="center">**Member 2:**</p>
 
-**Name:** MD Hasan Ud-Doula
+<p align="center">**Name:** MD Hasan Ud-Doula</p>
 
-**ID:** 1620545042
+<p align="center">**ID:** 1620545042</p>
 
-**Email:** <ud.doula@northsouth.edu>
+<p align="center">**Email:** <ud.doula@northsouth.edu></p>
 
-**Git Repository:** <https://github.com/WasekRahman/SU19CSE299S16G07NSU/>
+<p align="center">**Git Repository:** <https://github.com/WasekRahman/SU19CSE299S16G07NSU/></p>
 
-**Date Prepared:** 20/06/2019</p>
+<p align="center">**Date Prepared:** 20/06/2019</p>
 
 **INTRODUCTION**
 
