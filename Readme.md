@@ -1,9 +1,9 @@
 ![NSU logo](https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg)
 
-<p align="justify">
+<p align="center">
 <b>North South University</b>
 
-Department of Electrical & Computer Engineering
+<b>Department of Electrical & Computer Engineering</b>
 
 **Project Proposal**
 
