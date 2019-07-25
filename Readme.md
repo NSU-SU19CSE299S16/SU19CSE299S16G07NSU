@@ -1,19 +1,19 @@
-<p align="center">![NSU logo](https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg)</p>
+![NSU logo](https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg)
 
 <p align="center">
 <b>North South University</b></p>
 
 <p align="center"><b>Department of Electrical & Computer Engineering</b></p>
 
-<p align="center">**Project Proposal**</p>
+<p align="center"><b>Project Proposal</b></p>
 
-<p align="center">**Group No**: 7</p>
+<p align="center"><b>Group No: 7</b></p>
 
-<p align="center">**Summer 2019**</p>
+<p align="center">Summer 2019</p>
 
-<p align="center">**Project Name**: NSU ALUMNI PORTAL</p>
+<p align="center">Project Name: NSU ALUMNI PORTAL</p>
 
-<p align="center">**Course No**: CSE 299 **Sec:** 16</p>
+<p align="center">Course No: CSE 299 **Sec:** 16</p>
 
 <p align="center">**Semester**: Summer</p>
 
@@ -21,11 +21,11 @@
 
 <p align="center">*Member 1:*</p>
 
-<p align="center">**Name:** Mohammed Wasekur Rahman</p>
+<p align="center">Name:** Mohammed Wasekur Rahman</p>
 
-<p align="center">**ID:** 1713032042</p>
+<p align="center"><b>ID:</b> 1713032042</p>
 
-<p align="center">**Email:** <mohammed.rahman03@northsouth.edu></p>
+<p align="center"><b>Email:</b> <mohammed.rahman03@northsouth.edu></p>
 
 <p align="center">**Member 2:**</p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">**Git Repository:** <https://github.com/WasekRahman/SU19CSE299S16G07NSU/></p>
 
-<p align="center">**Date Prepared:** 20/06/2019</p>
+<p align="center"><b>Date Prepared: 20/06/2019</p>
 
 **INTRODUCTION**
 
