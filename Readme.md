@@ -5,9 +5,9 @@
 <p align="center">Department of Electrical &amp; Computer Engineering</p>
 <p align="center"><strong>Project Proposal</strong></p>
 <p align="center"><strong>Group No</strong>: 7</p>
+<p align="center"><strong>Summer 2019</strong></p>
 <p align="center"><strong>Project Name</strong>: NSU ALUMNI PORTAL</p>
 <p align="center"><strong>Course No</strong>: CSE 299 <strong>Sec</strong><strong>:</strong> 16</p>
-<p align="center"><strong>Semester</strong>: Summer</p>
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
 <p align="center"><strong>Name</strong><strong>:</strong> Mohammed Wasekur Rahman</p>
