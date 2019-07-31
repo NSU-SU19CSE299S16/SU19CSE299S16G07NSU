@@ -31,6 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'user_profile',
+    'stream_django',
     'Alumni_Portal.apps.AlumniPortalConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -121,3 +123,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+STREAM_API_KEY = 'r32uxze2m82k'
+STREAM_API_SECRET = '6xmehn27ejnhp3urw6grz4ujvbnzkwduwdrx36xpmbrax4yrax3wtjhk2ys3cxx8'
