@@ -1,0 +1,101 @@
+{{ define "home.html" }}
+<div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="panel panel-default" style="margin-top:50px">
+                    <div class="panel-heading"> Alumni Registration </div>
+
+                    <div class="panel-body">
+                                                    <p>Please provide us the following information and after verification we will send you the login details.</p>
+
+                        <br/>
+                        <form class="form-horizontal" method="POST" action="http://institutions.northsouth.edu/alumniportal/public/createTicket">
+                            <input type="hidden" name="_token" value="D4yCxzc7bUQYkVtGUqgOvAgCXpvV4RWsxZMzDoBe">
+
+                            <div class="form-group">
+                                <label for="username" class="col-md-4 control-label">Student ID</label>
+
+                                <div class="col-md-8">
+                                    <input id="username" type="text" class="form-control" placeholder="Full NSU ID Ex. 1731111030" name="username" maxlength="10" value="" required autofocus>
+
+                                                                    </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="full_name" class="col-md-4 control-label">Full Name</label>
+
+                                <div class="col-md-8">
+                                    <input id="full_name" type="text" class="form-control"  name="full_name" value="" required autofocus>
+
+                                                                    </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="email" class="col-md-4 control-label">Current Email Address</label>
+
+                                <div class="col-md-8">
+                                    <input id="email" type="email" class="form-control" name="email" value="" required autofocus>
+
+                                                                    </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="phone" class="col-md-4 control-label">Contact Phone</label>
+
+                                <div class="col-md-8">
+                                    <input id="phone" type="text" class="form-control" name="phone" value="" required autofocus>
+
+                                                                    </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="user_comment" class="col-md-4 control-label">Comments (Optional)</label>
+
+                                <div class="col-md-8">
+                                    <textarea name="user_comment" class="form-control"></textarea>
+                                                                    </div>
+                            </div>
+
+
+                            <div class="form-group">
+                                <div class="col-md-8 col-md-offset-4">
+                                    <button type="submit" class="btn btn-danger">
+                                        Register
+                                    </button>
+
+					&nbsp;<a href="http://institutions.northsouth.edu/alumniportal/public/login" class="btn btn-primary">
+                                Already Registered? <strong>Login</strong>
+                            </a>
+                                </div>
+                            </div>
+
+
+                        </form>
+                                                    
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-default" style="margin-top:50px">
+                    <div class="panel-heading text-center"> <img src="http://institutions.northsouth.edu/oea/wp-content/uploads/2018/03/oea-logo.png" width="220"></div>
+
+                    <div class="panel-body">
+                        <h3>Alumni Database Management<br/>
+                            Office of External Affairs</h3>
+                        <p><strong>Instructions:</strong> If you are an alumni & doesn't have your login details then please complete the registration process. After that we will verify your details and send you the login details.
+                        </p>
+                        <p>If you already have your login details then please go to the <u><a href="login">login page</a></u> and after logged in you can edit your details yourself.</p>
+
+                        <p><strong>Contact:</strong> For any further query please contact us at :<br/>
+                            <ul>
+                            <li>Office : Office of External Affairs, North South University</li>
+                            <li>Phone : +880 2 55668200 Ext: 1064</li>
+                            <li>Email : nsualumni.affairs@northsouth.edu </li>
+                        </ul>
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
+{{ end }}
