@@ -1,0 +1,602 @@
+{
+  "Grameenphone Limited": {
+    "Address": "GPHOUSE\nBashundhara,BaridharaDhaka-1229",
+    "email": "info@grameenphone.com",
+    "Contact Number": "880-1799882990",
+    "Website": "https://www.grameenphone.com/"
+  },
+  "Robi Axiata Limited": {
+    "Address": "53 Gulshan South Avenue, Dhaka 1212",
+    "email": "123@robi.com.bd",
+    "Contact Number": 1819400400,
+    "Website": "https://www.robi.com.bd/"
+  },
+  "Banglalink Digital Communications Ltd": {
+    "Address": "Tiger\u2019s Den, House 4 (SW), Bir Uttam Mir Shawkat Sarak, Gulshan1, Dhaka 1212.",
+    "email": "info@banglalink.net",
+    "Contact Number": 1911304121,
+    "Website": "https://www.banglalink.net"
+  },
+  "Teletalk Bangladesh Limited": {
+    "Address": "Rajuk Commercial Complex\nHolding # 3/A, 5/A, 7/A, Road # 17,Gulshan-1, Dhaka-1212\nBangladesh.",
+    "email": "info@teletalk.com.bd",
+    "Contact Number": "0155 015 4444",
+    "Website": "http://www.teletalk.com.bd/"
+  },
+  "Kazi IT center Ltd": {
+    "Address": "House No: 1B, Road No: 12, Nikunja-2, Khilkhat, Dhaka-1229",
+    "email": "info@kaziitcenter.com",
+    "Contact Number": "88-09613529448",
+    "Website": "https://kitcbd.com/"
+  },
+  "Tiger IT Bangladesh Limited": {
+    "Address": "House 21, Road 28, Block-K, Banani Model Town\nDhaka, 1213",
+    "email": ""  ,
+    "Contact Number": 88028826716,
+    "Website": "http://www.tigerit.com"
+  },
+  "Brain Station 23": {
+    "Address": "8th floor, Plot-02, Amtoli, Bir Uttam Ak Khandaker Rd, Dhaka 1212",
+    "email": ""  ,
+    "Contact Number": 1404055220,
+    "Website": "https://brainstation-23.com/"
+  },
+  "DataSoft Systems Bangladesh Limited": {
+    "Address": "Rupayan Shelford (20th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207, Bangladesh.",
+    "email": "info@datasoft-bd.com",
+    "Contact Number": 9609667788,
+    "Website": "http://datasoft-bd.com"
+  },
+  "IBCS-PRIMAX Software(Bangladesh) Limited": {
+    "Address": "House # 51, Road # 10A, Dhanmondi R/A,\nDhaka-1209, Bangladesh",
+    "email": "info@ibcs-primax.com",
+    "Contact Number": 58153970,
+    "Website": "http://www.ibcs-primax.com"
+  },
+  "Invento Bangladesh": {
+    "Address": "House no: 484 (4th Floor) , Road no 32, Mohakhali DOHS, Dhaka 1206",
+    "email": "hello@invento.com.bd",
+    "Contact Number": "880 1682 244 434",
+    "Website": "www.invento.com.bd"
+  },
+  "PRAN-RFL GROUP LTD": {
+    "Address": "PRAN-RFL Centre\n105, Progoti Sarani Middle Badda\nDhaka 1212, Bangladesh",
+    "email": "crd@prangroup.com",
+    "Contact Number": "09613-737777",
+    "Website": "https://www.pranfoods.net/"
+  },
+  "Nestl\u00e9 Bangladesh Limited": {
+    "Address": "227/A Bir Uttam Mir Showkat Ali Road, 1208 Tejgaon Farm, Dhaka, Bangladesh",
+    "email": ""  ,
+    "Contact Number": 8000161271,
+    "Website": "https://www.nestle.com.bd/"
+  },
+  "Standard Chartered | Bangladesh": {
+    "Address": "Standard Chartered Bank,\n67 Gulshan Avenue, Gulshan\nDhaka 1212, Bangladesh ",
+    "email": "customer.enquiries@sc.com",
+    "Contact Number": "88 02 55669900",
+    "Website": "https://www.sc.com/bd/"
+  },
+  "Dhaka Bank Limited": {
+    "Address": "71, Purana Paltan Lane, Dhaka",
+    "email": "info@dhakabank.com.bd",
+    "Contact Number": "5831 4624-8",
+    "Website": "https://dhakabankltd.com"
+  },
+  "City Bank Ltd": {
+    "Address": "136, Gulshan Avenue, Gulshan-2\nDhaka-1212, Bangladesh ",
+    "email": "info@thecitybank.com.bd",
+    "Contact Number": 58813126,
+    "Website": "https://www.thecitybank.com"
+  },
+  "United Commercial Bank Limited": {
+    "Address": "Plot - CWS- (A)-1\nRoad No - 34\nGulshan Avenue, Dhaka-1212",
+    "email": " info@ucb.com.bd",
+    "Contact Number": "88-02-55668070",
+    "Website": "https://www.ucb.com.bd"
+  },
+  "Eastern Bank Ltd": {
+    "Address": "Eastern Bank Ltd.\n100 Gulshan Avenue\nDhaka-1212,\nBangladesh ",
+    "email": " info@ebl.com.bd",
+    "Contact Number": "88 09666777325 ",
+    "Website": "https://www.ebl.com.bd"
+  },
+  "BRAC Bank Limited": {
+    "Address": "Anik Tower, 220/B Bir Uttam Mir Shawkat Sarak, Dhaka 1208",
+    "email": "enquiry@bracbank.com",
+    "Contact Number": 8801311,
+    "Website": "https://www.bracbank.com"
+  },
+  "Islami Bank Bangladesh Limited": {
+    "Address": "Islami Bank Tower\n40, Dilkusha C/A\nDhaka - 1000\nBangladesh",
+    "email": "info@islamibankbd.com",
+    "Contact Number": 9560099,
+    "Website": "https://www.islamibankbd.com"
+  },
+  "LankaBangla Finance": {
+    "Address": "Safura Tower (Level 11)20 Kemal Ataturk Avenue, Banani, Dhaka",
+    "email": "info@lankabangla.com",
+    "Contact Number": "(+88 02) 9883701-10",
+    "Website": "https://www.lankabangla.com"
+  },
+  "Uniliver Bangladesh": {
+    "Address": "Unilever Bangladesh Ltd \nZN Tower, Plot# 02 \nRoad # 08, Gulshan - 1 \nDhaka - 1212. \nUnilever Bangladesh   ",
+    "email": "careline.bd@unilever.com",
+    "Contact Number": "880 2 988 8452  ",
+    "Website": "www.unilever.com.bd"
+  },
+  "Reckitt Benckiser Bangladesh ltd.": {
+    "Address": "Plot 2 (B)\nBlock SE (C), Road 138\nGulshan-1, Dhaka-1212\nBangladesh ",
+    "email": ""  ,
+    "Contact Number": "88 02 988 7209 ",
+    "Website": "www.rb.com"
+  },
+  "GlaxoSmithKline plc": {
+    "Address": "House 2A, Road 138\nGulshan 1,Dhaka 1212\nBangladesh",
+    "email": "gsk.bangladesh-info@gsk.com",
+    "Contact Number": "88 02 985 8870",
+    "Website": "https://www.gsk.com/en-gb/contact-us/worldwide/bangladesh/"
+  },
+  "SQUARE GROUP": {
+    "Address": "SQUARE Centre 48, Mohakhali C/A Dhaka 1212, Bangladesh",
+    "email": "info@squaregroup.com ",
+    "Contact Number": "88-02-8833047-56 ",
+    "Website": "https://www.squaregroup.com/"
+  },
+  "Square Pharmaceuticals Ltd": {
+    "Address": "48, Mohakhali C/A\nDhaka 1212,\nBangladesh.",
+    "email": "http://www.squarepharma.com.bd/contact-us.php",
+    "Contact Number": "02-9859007",
+    "Website": "http://www.squarepharma.com.bd/"
+  },
+  "Square Toiletries Limited": {
+    "Address": "Rupayan Centre [12th Floor]\n\n72, Mohakhali C/A, Dhaka-1212",
+    "email": ""  ,
+    "Contact Number": "880-2-9841531-40, Ext: 213",
+    "Website": "http://squaretoiletries.com"
+  },
+  "Square Food & Beverage Limited": {
+    "Address": "Square Food & Beverage Limited\nSquare Centre (6th Floor)\nCorporate Head Quarter.\n48, Mohakhali CA, Dhaka-1212.",
+    "email": "sfblcareline@squaregroup.com",
+    "Contact Number": "09-612-111-333",
+    "Website": "http://www.sfbl.com.bd"
+  },
+  "Square Informatix Limited": {
+    "Address": "Square Center (11th Floor),\n48, Mohakhali C/A, Dhaka-1212, Bangladesh.",
+    "email": "info@squarecloud.net",
+    "Contact Number": "09613707070 - Ext 2057",
+    "Website": "https://www.squarecloud.net"
+  },
+  "Beximco Pharmaceuticals Ltd.\n": {
+    "Address": " H.No 19, R/A, Rd No. 7, Dhaka 1205",
+    "email": "info@bpl.net",
+    "Contact Number": "880-2-58611001-7",
+    "Website": "https://www.beximcopharma.com"
+  },
+  "Meghna Cement.": {
+    "Address": "Bashundhara Industrial Head Quarters, Plot-3,\nBlock-G (Umme Kulsum Road), Bashundhara R/A, Dhaka - 1229.",
+    "email": "info.mcmlfactory@bg.com.bd",
+    "Contact Number": "88 02 8431024-8,",
+    "Website": "http://www.meghnacement.com/"
+  },
+  "Bashundhara Food & Beverage Industries Ltd.": {
+    "Address": "Bashundhara Industrial Head Quarters 2, Plot#56/A, Block#C, 2nd Avenue, Bashundhara R/A, Dhaka-1229, Bangladesh",
+    "email": "bfbil@bg.com.bd",
+    "Contact Number": "88-02-8431256-8",
+    "Website": "http://www.bashundharafood.com/"
+  },
+  "Bashundhara Industrial Complex Limited": {
+    "Address": "Plot# 3, Block# G, Umme Kulsum Road, Bashundhara R/A, Dhaka-1229",
+    "email": "bashundhara.cement@bg.com.bd",
+    "Contact Number": "880 2 8431024-8",
+    "Website": "http://www.bashundharacement.com/"
+  },
+  "Bashundhara Paper Mills Limited": {
+    "Address": "Bashundhara Industrial Headquarters- 2, Plot# 56/A, Block# C, Umme Kulsum Road, Bashundhara R/A, Dhaka-1229, Bangladesh",
+    "email": "info.paper@bg.com.bd",
+    "Contact Number": "88 02 8432289-93",
+    "Website": "http://www.bashundharapapermills.com/"
+  },
+  "haque group": {
+    "Address": "Ibrahim Chamber\n95, Motijheel C/A (2nd & 3rd Floor)\nDhaka - 1000, Bangladesh.",
+    "email": "info@haquegroupbd.com",
+    "Contact Number": "880-2-9554670",
+    "Website": "https://www.haquegroupbd.com/"
+  },
+  "Cocola Food Products Ltd": {
+    "Address": "HOUSE # 14, ROAD # 16/A (2nd Floor) GULSHAN-1, Dhaka-1212, Bangladesh ",
+    "email": ""  ,
+    "Contact Number": "88-01711-000000 ",
+    "Website": "http://www.cocolafood.net"
+  },
+  "Nabisco Biscuit and Bread Factory Ltd.": {
+    "Address": "77, Shaid Tajuddin Ahmed Sarani, Dhaka-1208, Bangladesh ",
+    "email": "nabisco077@yahoo.com",
+    "Contact Number": "01741-116813 ",
+    "Website": ""  
+  },
+  "\nRomania Food & Beverage Ltd.\n": {
+    "Address": "House, 75, Gulshan Avenue, Road-30, Gulshan-1, Dhaka-1212, Bangladesh, ",
+    "email": ""  ,
+    "Contact Number": "88-02-9888248",
+    "Website": "\nhttp://romania.com.bd/\n"
+  },
+  "Bengal Group of Industries": {
+    "Address": "75 Gulshan Avenue\nGulshan 1, Dhaka 1212\nBangladesh.",
+    "email": "info@bengal.com.bd",
+    "Contact Number": "880-2-9888248",
+    "Website": "https://www.bengalgroup.com"
+  },
+  "Transcom Limited": {
+    "Address": "Plot# 31, Road# 53\n\nGulshan North C.A, Gulshan-2, Dhaka-1212",
+    "email": "estore@transcomdigital.com",
+    "Contact Number": 1755558845,
+    "Website": "https://transcomdigital.com/"
+  },
+  "Symphony Mobile": {
+    "Address": "Rangs Babylonia\n\nLevel 6 - 9, 246 Bir Uttam Mir Shawkat Road, Tejgaon I/A, Dhaka-1208",
+    "email": "https://www.symphony-mobile.com/contact-us.php",
+    "Contact Number": "880 2 8878057",
+    "Website": "https://www.symphony-mobile.com/"
+  },
+  "Walton Group": {
+    "Address": "Plot-1088, Block-I, Sabrina Sobhan Road\n    P.O-Khilkhet, P.S-Vatara,\n    Bashundhara R/A, Dhaka-1229",
+    "email": "info@waltonbd.com",
+    "Contact Number": "008809606-555555",
+    "Website": "https://www.waltonbd.com/"
+  },
+  "Microsoft Bangladesh Limited": {
+    "Address": "Laila Tower, 4th Floor\n8 Gulshan Avenue, Gulshan - 1\nDhaka 1212\nBangladesh ",
+    "email": ""  ,
+    "Contact Number": "880-2-8832973-75 ",
+    "Website": "https://www.microsoft.com/en-us/contact_bn-bd.aspx"
+  },
+  "OTOBI LIMITED": {
+    "Address": "Plot 12, Block CWS (C)\nGulshan South Avenue, Gulshan 1,Dhaka 1212, Bangladesh.",
+    "email": "info@otobi.com ",
+    "Contact Number": "880 2-9863219-20",
+    "Website": "https://www.otobi.com/"
+  },
+  "IBCS-PRIMAX Software(Bangladesh) Limited.1": {
+    "Address": "House # 51, Road # 10A, Dhanmondi R/A,\nDhaka-1209, Bangladesh",
+    "email": "info@ibcs-primax.com",
+    "Contact Number": 58153970,
+    "Website": "http://www.ibcs-primax.com"
+  },
+  "Abul Khair Group (AKG": {
+    "Address": " Plot # 15, Block #, CEN (A Baridhara Lake Trail West Side, Dhaka 1212",
+    "email": ""  ,
+    "Contact Number": "02-8881221",
+    "Website": "http://www.abulkhairsteel.com"
+  },
+  "SK Corporation": {
+    "Address": "309,Al-Amin\n\nComplex,Nawab-bari Road,\n\nBogra-5800, Bangladesh. ",
+    "email": "skcorporation12@gmail.com ",
+    "Contact Number": "01713-003817",
+    "Website": "https://skcorporation.webs.com"
+  },
+  "Siemens Bangladesh": {
+    "Address": ""  ,
+    "email": "ccm.bd@siemens.com",
+    "Contact Number": "(+8802) 9893536",
+    "Website": "http://www.siemens.com.bd"
+  },
+  "Ananda Group": {
+    "Address": ""  ,
+    "email": ""  ,
+    "Contact Number": ""  ,
+    "Website": ""  
+  },
+  "LafargeHolcim Bangladesh Ltd": {
+    "Address": " NinaKabbo , Level-7, 227/A , Bir Uttam Mir Shawkat Sarak,(Tejgaon gulshan Link Road) , Tejgaon, Dhaka -1208, Bangladesh",
+    "email": "Info.ca@lafargeholcim.com ",
+    "Contact Number": "880(2)9881002-3",
+    "Website": "www.lafargeholcim.com.bd/"
+  },
+  "HeidelbergCement Bangladesh Limited": {
+    "Address": "Symphony, Plot No - SE(F) 9, Road No - 142 (6th Floor)\nGulshan Avenue (South), Dhaka - 1212",
+    "email": "info@heidelbergcementbd.com",
+    "Contact Number": "88-02-58811691",
+    "Website": "https://www.heidelbergcementbd.com"
+  },
+  "The Hongkong and Shanghai Banking Corporation Limited, Bangladesh (HSBC Bangladesh).": {
+    "Address": "Level 4, Shanta Western Tower\n186 Bir Uttam Mir Shawkat Ali Road\nTejgaon Industrial Area, Dhaka 1208",
+    "email": "contact@hsbc.com.bd",
+    "Contact Number": "880 966 633 1000",
+    "Website": "www.hsbc.com.bd"
+  },
+  "Bangladesh Edible Oil Limited (BEOL)": {
+    "Address": "Land View Commercial Center (10th Floor)\n28 Gulshan North C/A, Gulshan Circle 2\nDhaka 1212, Bangladesh",
+    "email": "https://mail.beol-bd.com/owa/",
+    "Contact Number": "880-2-58815319",
+    "Website": "http://www.beol-bd.com"
+  },
+  "KARNAPHULI FERTILZER COMPANY LIMITED": {
+    "Address": "IDB Bhaban (13th Floor)\nE/8-A, Rokeya Sharani\nSher-e-Bangla Nagar\nDhaka 1207\nBangladesh",
+    "email": ""  ,
+    "Contact Number": "880 (2) 918 3141",
+    "Website": "http://www.kafcobd.com/"
+  },
+  " BSRM Limited": {
+    "Address": "Ali Mansion\n1207/1099 Sadarghat Road\nChittagong, Bangladesh",
+    "email": "mail@bsrm.com",
+    "Contact Number": "880 31 2854901-10 ",
+    "Website": "https://bsrm.com/"
+  },
+  "RANGS GROUP": {
+    "Address": "117/A, Rangs Bhaban, Old Airport Road, Bijoy Sharani, Tejgaon, Dhaka-1215, Bangladesh.",
+    "email": "https://www.rangsgroup.com/contact/",
+    "Contact Number": "88 02 9136743",
+    "Website": "https://www.rangsgroup.com/"
+  },
+  "T. K. Group of Industries": {
+    "Address": "T. K. Bhaban (2nd Floor),\n13, Karwan Bazar,\nDhaka-1215,\nBangladesh.",
+    "email": "info@tkgroupbd.com",
+    "Contact Number": "880-2-9115210",
+    "Website": "http://www.tkgroupbd.net"
+  },
+  "Rahimafrooz (Bangladesh) Ltd.": {
+    "Address": "Arzed Chamber\n13 Mohakhali C/A, Dhaka 1212",
+    "email": ""  ,
+    "Contact Number": "9893442-3",
+    "Website": "http://www.rahimafrooz.com"
+  },
+  "Bangladesh Petroleum Corporation": {
+    "Address": "BTMC Bhaban, 10th Floor, 7-9 Karwan Bazar, Dhaka.",
+    "email": ""  ,
+    "Contact Number": "02-8189558",
+    "Website": "http://bpc.gov.bd/"
+  },
+  "Unnamed: 58": {
+    "Address": ""  ,
+    "email": ""  ,
+    "Contact Number": ""  ,
+    "Website": "http://jamunaoil.gov.bd/"
+  },
+  "Padma Oil Company Limited": {
+    "Address": "Padma Bhaban,Strand Road\nChattogram, Bangladesh",
+    "email": " info@pocl.gov.bd",
+    "Contact Number": "88 031 614235-7",
+    "Website": "http://pocl.gov.bd/"
+  },
+  "Titas Gas Transmission & Distribution Company Limited": {
+    "Address": "Zakir Complex, H No: K-218, Kuril Chou rasta, Progoti Sharani, Dhaka-1219",
+    "email": ""  ,
+    "Contact Number": 1939921137,
+    "Website": "https://www.titasgas.org.bd"
+  },
+  "Ranks Telecom Limited": {
+    "Address": "Phoenix Tower (Level 8)\n117, Tejgaon Industrial Area\nDhaka- 1208 ",
+    "email": "customercare@rankstelecom.net",
+    "Contact Number": 9617112233,
+    "Website": "http://rankstelecom.com"
+  },
+  "PETROBANGLA": {
+    "Address": "PETROCENTRE, 3 KAWRAN BAZAR C/A,\nDHAKA-1215, BANGLADESH",
+    "email": "info@petrobangla.org.bd",
+    "Contact Number": "880 2 8189944",
+    "Website": "https://petrobangla.org.bd/"
+  },
+  "United Airways BD": {
+    "Address": "House # 7, Dolon Chapa (2nd floor), Road # 12, Sector # 1,\nUttara Model Town, Dhaka-1230 Bangladesh.",
+    "email": "info@uabdl.com",
+    "Contact Number": "880 2 8932338",
+    "Website": "http://www.uabdl.com/"
+  },
+  "NOVOAIR": {
+    "Address": "House-50, Road-11, Block-F, Banani. ",
+    "email": "info@flynovoair.com",
+    "Contact Number": "88-09666722224 ",
+    "Website": "https://www.flynovoair.com/"
+  },
+  "Regent Airways": {
+    "Address": "SA Tower (Level-5), Plot#1, Road#134, Block SE(A), Gulshan-1, Dhaka 1212 ",
+    "email": "sales.gulshan@flyregent.com",
+    "Contact Number": 8801730358840,
+    "Website": "http://www.flyregent.com"
+  },
+  "US-Bangla Airlines": {
+    "Address": "77, Sohrawardi Avenue, Baridhara Diplomatic Zone\nDhaka - 1212, Bangladesh.",
+    "email": "info@usbair.com",
+    "Contact Number": 9884818,
+    "Website": "https://usbair.com/"
+  },
+  "Ha-Meem Group": {
+    "Address": "387, Tejgaon Industrial Area\nDhaka-1208, Bangladesh ",
+    "email": "delwar@hameemgroup.com",
+    "Contact Number": "880-2-8170593 ",
+    "Website": "http://www.hameemgroup.net/"
+  },
+  "Renata Limited,": {
+    "Address": "Plot No. 1, Milk Vita Road, Section-7,\nMirpur, Dhaka-1216, Bangladesh,\nGPO Box No. 303",
+    "email": " info@renata-ltd.com",
+    "Contact Number": "8001450-54",
+    "Website": "https://renata-ltd.com/"
+  },
+  "Confidence Group": {
+    "Address": "Unique Trade Center, Level 6,\n08 Panthapath, Karwan Bazar, Dhaka-1215, Bangladesh. ",
+    "email": " info@cg-bd.com",
+    "Contact Number": "880-9102543,",
+    "Website": "https://www.confidencegroup.com.bd"
+  },
+  "Opsonin Pharma. A": {
+    "Address": "Opsonin Building, 30, New Eskaton Road\nDkhaka 1000, Bangladesh.",
+    "email": "info@opsonin-pharma.com",
+    "Contact Number": "880-2-9332262",
+    "Website": "http://www.opsonin-pharma.com"
+  },
+  "Incepta Pharmaceuticals Ltd.": {
+    "Address": "40 Shahid Tajuddin Ahmed Sarani\nTejgaon I/A, Dhaka-1208. Bangladesh",
+    "email": "info@inceptapharma.com",
+    "Contact Number": "88 02) 8891688 - 703",
+    "Website": "http://www.inceptapharma.com/"
+  },
+  "Eskayef Pharmaceuticals Ltd.": {
+    "Address": "Gulshan Tower\nPlot No. 31 Road No. 53\nGulshan North C/A\nDhaka-1212, Bangladesh. ",
+    "email": "pharmacovigilance.query@skf.transcombd.com ",
+    "Contact Number": "8818327, 8814662 ",
+    "Website": "http://www.skfbd.com/"
+  },
+  "Rupayan Group": {
+    "Address": "RUPAYAN CENTRE (3rd, 4th, 5th, 7th, 9th, 13th, 14th, 17th, 18th, 21st Floor), 72, Mohakhali, C/A, Dhaka-1212",
+    "email": "info@rupayangroup.com",
+    "Contact Number": "02 9862573",
+    "Website": "www.rupayangroup.com"
+  },
+  "Eastern Housing Ltd.": {
+    "Address": "59/B, Kemal Ataturk Avenue, Banani, Dhaka-1213.",
+    "email": "info@easternhousing.com",
+    "Contact Number": 55033669,
+    "Website": "www.easternhousing.com"
+  },
+  "Biman Bangladesh Airlines Ltd.": {
+    "Address": "Biman Bangladesh Airlines LTD.\nHead Office, \"BALAKA\", Kurmitola, Dhaka-1229, Bangladesh",
+    "email": "dgmgs@bdbiman.com",
+    "Contact Number": "88-02-8901500-22",
+    "Website": "https://www.biman-airlines.com"
+  },
+  "ACI Motors Limited": {
+    "Address": "ACI Centre, 245 Tejgaon Industrial Area, Dhaka 1208.",
+    "email": "info@acimotors-bd.com",
+    "Contact Number": ""  ,
+    "Website": "https://acimotors-bd.com"
+  },
+  "KOHINOOR CHEMICAL CO. (BD) LTD": {
+    "Address": "Orion House, 153-154, Tejgaon I/A,\nDhaka -1208, Bangladesh.",
+    "email": ""  ,
+    "Contact Number": "880-2-8891267-70",
+    "Website": "http://www.kohinoor-bd.com"
+  },
+  "Kazi Farms Group\u2122": {
+    "Address": "Ahmed Kazi Tower, House-35, Road-02, Dhanmondi, Dhaka-1205 ",
+    "email": " info@kazifarms.com",
+    "Contact Number": 9612184,
+    "Website": "http://www.kazifarms.com"
+  },
+  "\nPartex Properties\n": {
+    "Address": "    House 14, Road 3, Block I,\n    Banani, Dhaka",
+    "email": "properties@partex.net",
+    "Contact Number": "017.5560.7330",
+    "Website": "http://www.partexproperties.com"
+  },
+  " Labaid Group.": {
+    "Address": "House# 01, Road# 04, Dhanmondi, Dhaka 1205",
+    "email": "  info@labaidgroup.com",
+    "Contact Number": "88 02 58610793-8",
+    "Website": "www.labaidgroup.com"
+  },
+  "Crown Cement Group (CCG)": {
+    "Address": "Delta Life Tower (3rd & 6th floor), Plot # 37 Rd No 90, Dhaka 1212",
+    "email": "info@crowncement.com",
+    "Contact Number": "01730709005,",
+    "Website": "https://crowncement.com"
+  },
+  "Shohag Group": {
+    "Address": "63 Malibagh,DIT Road,Shahid Faruk Taslim Sarak; 1217 Dhaka, Bangladesh",
+    "email": ""  ,
+    "Contact Number": ""  ,
+    "Website": "http://www.shohagh.biz/"
+  },
+  "Bangladesh Telecommunications Company Ltd. (BTCL)": {
+    "Address": "Telejogajog Bhaban, 37/E, Eskaton Garden\nDkaka-1000, Bangladesh.",
+    "email": "ddt@btcl.net.bd",
+    "Contact Number": "9320080-3",
+    "Website": "http://www.btcl.com.bd/en"
+  },
+  "Daffodil Computers Ltd": {
+    "Address": "64/3 Lake Circus, Kalabagan\nMirpur Road, Dhaka 1205, Bangladesh ",
+    "email": "secretary@daffodil-bd.com",
+    "Contact Number": "8802 9116600",
+    "Website": "http://www.daffodil-bd.com/"
+  },
+  "Navana Furniture, Head Office": {
+    "Address": "House # 16/B, Road # 93, Gulshan 2, Dhaka 1212",
+    "email": "info@navanafurniture.com.com",
+    "Contact Number": 1713156840,
+    "Website": "http://www.navanafurniture.com"
+  },
+  "Beximco Synthetics Ltd.": {
+    "Address": "Kabirpur, Savar, Dhaka\nBangladesh",
+    "email": ""  ,
+    "Contact Number": "88 02 7701168-70",
+    "Website": "http://www.beximcosynthetics.com/"
+  },
+  "Akij Group": {
+    "Address": "198 Bir Uttam Mir Shawkat Sarak Gulshan Link Road, Tejgaon, Dhaka-1208",
+    "email": "Info.akijcement@akij.net\n",
+    "Contact Number": 8801711555061,
+    "Website": "https://www.akijcement.com/"
+  },
+  "Argon Denims Ltd. ": {
+    "Address": "Plot-33, section 7, Mirpur.\nDhaka-1216, Bangladesh.",
+    "email": "info@argondenims.com",
+    "Contact Number": "88 02 9004405",
+    "Website": "http://www.argondenims.com"
+  },
+  "Keya Group ": {
+    "Address": "PriyoPrangon\nHouse- 19, Road 17, 6th floor\nKamal Atarurk Avenue, Banani , Dhaka",
+    "email": "kgroup@keya-bd.com",
+    "Contact Number": "880-2-9897734",
+    "Website": "http://www.keyagroupbd.com"
+  },
+  "\n\nMaksons Group": {
+    "Address": "House # 17, Road # 6, Sector # 1,Uttara Model Town, Dhaka 1230, Bangladesh",
+    "email": "info@maksonsgroup.com.bd",
+    "Contact Number": "8802 8933612",
+    "Website": "http://www.maksonsgroup.com.bd"
+  },
+  "The Linde Group ": {
+    "Address": "285 Tejgaon Industrial Area\nDhaka \u2013 1208\nBangladesh",
+    "email": "info.bd@linde.com",
+    "Contact Number": "880.2.8870322-27 ",
+    "Website": "http://www.linde.com.bd"
+  },
+  "C.P. BANGLADESH CO., LTD": {
+    "Address": "Holding No : E-236, Ward No : 007, Chandra, Kaliakoir, Gazipur",
+    "email": "info@cpbangladesh.com",
+    "Contact Number": ""  ,
+    "Website": "http://www.cpbangladesh.com"
+  },
+  "CARE Bangladesh ": {
+    "Address": "RAOWA Complex (Level 7-8), VIP Road, Mohakhali, Dhaka -1206, Bangladesh ",
+    "email": "bgdinfo@care.org",
+    "Contact Number": 9889122,
+    "Website": "http://www.carebangladesh.org"
+  },
+  "Hyperion Builders Ltd.": {
+    "Address": "\nHouse:02, Road:04, Block:A, Section:10,\nMirpur, Dhaka-1216, Bangladesh",
+    "email": "info@hyperion-bd.com",
+    "Contact Number": "88 01613 174174",
+    "Website": "https://www.hyperion-bd.com/"
+  },
+  "Unnamed: 95": {
+    "Address": ""  ,
+    "email": ""  ,
+    "Contact Number": ""  ,
+    "Website": "http://www.assuregroupbd.com/"
+  },
+  "ANANDA GROUP  ": {
+    "Address": "10/1 (9th Floor), City Heart, \n67 Nayapaltan, Dhaka \u2013 1000, Bangladesh",
+    "email": ""  ,
+    "Contact Number": 9331510,
+    "Website": "www.anandagroup.com"
+  },
+  "Habib Group": {
+    "Address": "HG Tower , 1182 Jubilee Road ,\nChittagong, Bangladesh",
+    "email": ""  ,
+    "Contact Number": "88-031-2868204-7,2868841-3",
+    "Website": "http://www.habibgroupbd.com/"
+  },
+  "Aarong": {
+    "Address": "B, Link Road, 346 Bijoy Sarani - Tejgaon Link Rd, Dhaka 1208",
+    "email": ""  ,
+    "Contact Number": "02-8891418",
+    "Website": "https://www.aarong.com/"
+  },
+  "Ananta Companies": {
+    "Address": "Dhaka Corporate OfficeHouse 2, Road 10, Sector 11, UttaraDhaka 1230,",
+    "email": "info@ananta.com.bd",
+    "Contact Number": 1713199799,
+    "Website": "https://www.ananta.com.bd/"
+  }
+}
