@@ -8,26 +8,32 @@
     <link rel="stylesheet" href="/resources/demos/style.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script>
-        $( function() {
-            var availableTags = [
-                {{range .Details}}
-                {{.}},
-                {{end}}
-
-            ];
-            $( "#tags" ).autocomplete({
-                source: availableTags
-            });
-        } );
-    </script>
 </head>
 <body>
-<div class="ui-widget">
-    <label for="tags">Tags: </label>
-    <input id="tags">
-</div>
+{{if .Condition}}
+<p>{{ .Getname}}</p>
+{{else}}
+<script>
+    $( function() {
+        var availableTags = [
+            {{range .Names}}
+            {{.}},
+            {{end}}
 
+        ];
+        $( "#tags" ).autocomplete({
+            source: availableTags
+        });
+    } );
+</script>
+    <form method="POST">
+        <div class="ui-widget">
+            <label for="tags">Search Companies </label>
+            <input id="tags" type="text" name="name">
+        </div>
+        <input type="submit">
+    </form>
+{{ end }}
 
 </body>
 </html>

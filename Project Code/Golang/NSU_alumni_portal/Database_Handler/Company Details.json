@@ -161,7 +161,8 @@
     "Contact Number": "09-612-111-333",
     "Website": "http://www.sfbl.com.bd"
   },
-  "Square Informatix Limited": {
+  "name" : "Square Informatix Limited",
+  "details": {
     "Address": "Square Center (11th Floor),\n48, Mohakhali C/A, Dhaka-1212, Bangladesh.",
     "email": "info@squarecloud.net",
     "Contact Number": "09613707070 - Ext 2057",

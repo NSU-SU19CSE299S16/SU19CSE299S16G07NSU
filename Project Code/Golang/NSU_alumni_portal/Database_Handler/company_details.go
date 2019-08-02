@@ -20,11 +20,8 @@ func ReadJson(filename string) map[string]interface{}{
 
 }
 
-func CompanyDetails() []string {
-	var company_names []string
+func CompanyDetails() map[string]interface {} {
+	//var company_names []string
 	data := ReadJson("Database_Handler/Company Details.json")
-	for key,_ := range(data) {
-		company_names = append(company_names,key)
-	}
-	return company_names
+	return data
 }
