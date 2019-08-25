@@ -58,3 +58,6 @@
 <p>As the web application is targeting the alumni &amp; authority of North South University, we will try to get fund from the university.</p>
 <p>Companies can also place ads on the NSU Alumni Portal for jobs charging 100 BDT per day. We will provide an advertisement package for such companies. As we are integrating the stripe library, making payments for any users will be easy and secured.</p>
 <p>&nbsp;</p>
+<p><strong>Alternate Approach</strong></p>
+<p>Django, despite of being one of the best web development framework, does hold restrictions when it comes to real-time processes. It cannot handle real-time processes alone and so, requires additional libraries. This is why we came up with an alternate and more simple solution. Golang is a growing programming language which is excellent in these cases. We have developed a part of the django project using Golang and the real-time portion. Comparing both results, we could safely conclude that indeed Golang would have been a better choice as it creates a more vibrant and faster website. However, as time was limited, we did not go ahead and conduct the entire project in Golang as non of us were yet experienced with the language.</p>
+<p>&nbsp;</p>
