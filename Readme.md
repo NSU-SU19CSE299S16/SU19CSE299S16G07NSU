@@ -61,3 +61,6 @@
 <p><strong>Alternate Approach</strong></p>
 <p>Django, despite of being one of the best web development framework, does hold restrictions when it comes to real-time processes. It cannot handle real-time processes alone and so, requires additional libraries. This is why we came up with an alternate and more simple solution. Golang is a growing programming language which is excellent in these cases. We have developed a part of the django project using Golang and the real-time portion. Comparing both results, we could safely conclude that indeed Golang would have been a better choice as it creates a more vibrant and faster website. However, as time was limited, we did not go ahead and conduct the entire project in Golang as non of us were yet experienced with the language.</p>
 <p>&nbsp;</p>
+<p><strong>Unique Searchbar</strong></p>
+<p>We created a huge database of companies with their details on an excel sheet. Using python along with it's popular library - "Pandas" we manipulated the excel sheet to create a json object. This json object contained all the details of the companies and upon searching a company name, it would return the entire details of that company.</p>
+<p>&nbsp;</p>
